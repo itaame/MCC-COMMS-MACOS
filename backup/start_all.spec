@@ -4,7 +4,7 @@
 a = Analysis(
     ['start_all.py'],
     pathex=[],
-    binaries=[],
+    binaries=[('/usr/local/Cellar/opus/1.5.2/lib/libopus.0.dylib', '.')],
     datas=[('certs', 'certs'), ('config_dialog.py', '.'), ('LOOPS', 'LOOPS')],
     hiddenimports=[],
     hookspath=[],
