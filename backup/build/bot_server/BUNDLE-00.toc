@@ -1,0 +1,3 @@
+([('bot_server',
+   '/Users/mac/Downloads/MCC-COMMS-main 2/backup/dist/bot_server',
+   'EXECUTABLE')],)
